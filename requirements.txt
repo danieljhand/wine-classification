@@ -1,0 +1,8 @@
+jupyter
+transformers
+datasets
+torch
+matplotlib
+numpy
+scikit-learn
+umap-learn
