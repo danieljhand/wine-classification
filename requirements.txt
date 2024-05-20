@@ -1,3 +1,4 @@
+accelerate
 jupyter
 transformers
 datasets
